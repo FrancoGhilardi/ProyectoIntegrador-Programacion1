@@ -31,7 +31,7 @@ A través de un menú interactivo, el usuario puede:
 4. Ejecutá el script principal:
 
    ```bash
-   python programa.py
+   python proyectoIntegrador.py
    ```
 
 ---
